@@ -15,7 +15,7 @@
 - использование в проекте [Guava](https://github.com/google/guava/wiki), [Thymleaf](http://www.thymeleaf.org/), [Lombok](https://projectlombok.org/), [StreamEx](https://github.com/amaembo/streamex), 
 [Typesafe Config](https://github.com/typesafehub/config), [Java Microbenchmark JMH](http://openjdk.java.net/projects/code-tools/jmh)
 
-## [Занятие 1: Многопоточность](blob/doc/doc/lesson01.md) 
+## [Занятие 1: Многопоточность](/blob/doc/doc/lesson01.md) 
 - Вступление. Многопоточность и параллельность
 - Структура памяти Java. Ленивая инициализация
 - Реализация многопоточности в Java
